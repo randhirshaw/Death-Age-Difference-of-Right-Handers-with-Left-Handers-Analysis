@@ -1,0 +1,1 @@
+Using statistical modeling and real-world mortality data, this project examines whether left-handed individuals die younger than right-handed ones — and if so, why. It uncovers how shifting societal norms influence the perceived lifespan gap between handedness groups.
